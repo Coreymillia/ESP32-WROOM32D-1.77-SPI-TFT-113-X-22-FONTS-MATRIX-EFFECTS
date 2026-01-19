@@ -27,7 +27,6 @@ A stunning 113-effect Matrix-style digital rain screensaver running on ESP32 WRO
 - ESP32 WROOM-32D Development Board
 - 1.77" ST7735 TFT Display (128x160)
 - TTP223B Capacitive Touch Sensor
-- Breadboard/Proto board for connections
 
 ### Wiring Diagram
 
